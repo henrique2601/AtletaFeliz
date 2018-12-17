@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48116033612",
+    "firebase_url": "https://atletafeliz-ed76c.firebaseio.com",
+    "project_id": "atletafeliz-ed76c",
+    "storage_bucket": "atletafeliz-ed76c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48116033612:android:b5648ed6a7148784",
+        "android_client_info": {
+          "package_name": "com.hydragmes.paulo.atletafeliz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48116033612-5d4g5kue1n2knlu40tuuo0gnrhtgqodc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hydragmes.paulo.atletafeliz",
+            "certificate_hash": "5c1435af2dee1c48168c57caaf01f8b63b8dc4f5"
+          }
+        },
+        {
+          "client_id": "48116033612-hfhpof9209k3t700c94tscf2pffrs6pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVSgDFW5yvctyJPqAv5JFX5r4qxjDpEnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48116033612-hfhpof9209k3t700c94tscf2pffrs6pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
